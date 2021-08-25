@@ -1,2 +1,2 @@
-# hello-world-asm
-My first assembly
+# Hello World ASM
+My first assembly work on FASM
